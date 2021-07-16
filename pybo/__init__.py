@@ -28,6 +28,8 @@ def create_app():
     # @app.route('/r')
     # def hello():
     #     return 'Hello r!'
+    #
+    # 한글
 
     return app
 
